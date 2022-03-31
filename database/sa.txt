@@ -1,0 +1,9 @@
+web_pro_db
+tb_project
+- id
+	- name  				// ชื่อโครงงาน
+	- owner				// ผู้จัดทำ
+	- advisor			// ที่ปรึกษา
+	- year			// ปีการศึกษา
+	- detail 		// บทคัดย่อ
+	- date // วันที่เพิ่มโครงงาน
